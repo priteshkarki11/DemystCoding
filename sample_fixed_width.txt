@@ -1,0 +1,3 @@
+12345John Doe     1985-12-05125NY1987-07-10  A1234567@domain.com 9876543210          Street 1, City Name    ABC Company, Inc.  
+67890Jane Smith   1990-07-10230CA1995-11-15  B9876543@othermail.com0123456789         123 Avenue, Another City DEF Corp.        
+54321Alice Brown  1975-01-21150TX2000-03-21  C3456789@company.com 5556667777         456 Road, Different City GHI Incorporated
